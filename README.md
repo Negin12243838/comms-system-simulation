@@ -30,8 +30,3 @@ The project implements and analyses:
 - `sounddevice` (for audio recording/playback)
 - `heapq` (for Huffman tree construction)
 
-## How to Use
-
-Run the Jupyter notebook `CS_PRO2.ipynb` step by step. Each section (entropy, Huffman, Hamming, 4‑FSK, scatter plots, eye diagrams, PCM) is self‑contained.
-
-## Repository Structure
